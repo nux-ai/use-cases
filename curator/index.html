@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title>Profile Curator - NUX</title>
+    <!-- Favicon-->
+    <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+        integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link href="css/styles.css" rel="stylesheet" />
+</head>
+
+<style>
+    .nav-item {
+        display: flex;
+        align-items: center;
+    }
+
+    .nav-link {
+        color: white;
+    }
+</style>
+
+<body>
+    <!-- Responsive navbar-->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="https://nux.ai">NUX.ai</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                    <li class="nav-item"><a class="nav-link" href="#">About</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#"><button type="button"
+                                class="btn btn-primary">Deploy Chain</button>
+                        </a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- Page header with logo and tagline-->
+    <header class="py-5 bg-light border-bottom mb-4">
+        <div class="container">
+            <div class="text-center my-4">
+                <h1 class="fw-bolder">Profile Recomendation Engine</h1>
+            </div>
+            <div class="w-50 mx-auto">
+                <div class="input-group">
+                    <input class="form-control" type="text" placeholder="Describe your freelancer needs"
+                        aria-label="Enter search term..." aria-describedby="button-search" />
+                    <button class="btn btn-primary" id="button-search" type="button"><i
+                            class="fas fa-search"></i></button>
+                </div>
+                <div class="card mt-4">
+                    <div class="card-header">Chain Execution Progress</div>
+                    <div class="card-body">
+                        as
+                    </div>
+                </div>
+            </div>
+
+
+
+
+        </div>
+    </header>
+    <!-- Page content-->
+    <div class="container">
+        <div class="row">
+            <!-- Blog entries-->
+            <div class="col-lg-8">
+                <!-- Featured blog post-->
+                <div class="card mb-4">
+                    <div class="card-body">
+                        <div class="small text-muted">January 1, 2023</div>
+                        <h2 class="card-title">Featured Post Title</h2>
+                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis
+                            aliquid atque, nulla? Quos cum ex quis soluta, a laboriosam. Dicta expedita corporis animi
+                            vero voluptate voluptatibus possimus, veniam magni quis!</p>
+                        <a class="btn btn-primary" href="#!">Read more →</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Side widgets-->
+            <div class="col-lg-4">
+                <!-- Side widget-->
+                <div class="card mb-4">
+                    <div class="card-header">Chains</div>
+                    <div class="card-body">
+                        <pre>
+                            <code>
+[
+    {
+        "stage_id": "request_for_education",
+        "type": "search",
+        "source_id": "freelancer_profiles",
+        "config": {
+                "query": {
+                    "text_search": "{{request.query}}",
+                    "limit": 5
+                }
+        }
+    },
+    {
+        "stage_id": "recommend_freelancer",
+        "type": "search",
+        "source_id": "freelancer_profiles",
+        "config": {
+                "query": {
+                    "text_search": "{{request_for_education.metadata.row_object.freelancer_name}}",
+                    "limit": 5
+                }
+        }
+    },
+    {
+        "stage_id": "generate_explanation",
+        "type": "text_to_text",
+        "source_id": null,
+        "config": {
+            "user_prompt": "Give me the top 3 freelancer recomendations based on my query: {{request.query}} explaining why, using this context: {{request_for_education.contents}} and {{recommend_freelancer.contents}}. Be sure to include links to how you came to these conclusions.",
+            "system_prompt": "Return as an array of objects with keys containing: name (type: str), skills_list (type:list), and explanation (type:str). Do not include any pretext, and use HTML <a> tags for any links/sources."
+        }
+    }
+]
+                            </code>
+                        </pre>
+
+                    </div>
+                    <div class="card-footer">
+                        <a class="btn btn-primary float-end" href="#"><i class="fa-solid fa-rocket"></i> Deploy this
+                            Chain</a>
+                    </div>
+                </div>
+                <div class="card mb-4">
+                    <div class="card-header">Sources</div>
+                    <div class="card-body">
+                        <pre>
+                            <code>
+[
+    {
+        "source_id": "freelancer_profiles",
+        "type": "file_url",
+        "path": "https://nux-sandbox.s3.us-east-2.amazonaws.com/learnexus/freelancer_proposals+-+Proposals+Text+-+sample.csv",
+        "metadata": {},
+        "config": {}
+    },
+    {
+        "source_id": "freelancer_proposals",
+        "type": "file_url",
+        "path": "https://nux-sandbox.s3.us-east-2.amazonaws.com/learnexus/freelancer_profiles+-+Sheet1.csv",
+        "metadata": {},
+        "config": {}
+    }
+]
+                            </code>
+                        </pre>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Footer-->
+    <footer class="py-5 bg-dark">
+        <div class="container">
+            <p class="m-0 text-center text-white"><a class="text-white" href="https://nux.ai">NUX.ai</a></p>
+        </div>
+    </footer>
+    <!-- Bootstrap core JS-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Core theme JS-->
+    <script src="js/scripts.js"></script>
+</body>
+
+</html>
