@@ -1,12 +1,14 @@
+var BASE = "http://localhost:7789"
 var APIKEY = "sk_nw4MHC0RIiDiqHWHhK2SKT4gnzs5iAUX-ALVQPq-y5rCWteDDCk14lYskdOrh5HwpcU"
-var URL = "http://localhost:7789/v1"
+var URL = `${BASE}/v1`
+const WEBSOCKET = BASE;
 var CHAINID = "64f8ca393f6603da0cb88da9"
 
 
 class ProfileRecommendation {
     constructor(apiUrl, websocketUrl) {
-        this.apiUrl = apiUrl;
-        this.socket = io.connect(websocketUrl);
+        this.apiUrl = `${URL}/chain/run?chain_id=${CHAINID}`;
+        this.socket = io.connect(WEBSOCKET);
         this.init();
     }
 
@@ -225,6 +227,4 @@ $(document).ready(() => {
 });
 
 
-const apiUrl = `http://localhost:7789/v1/chain/run?chain_id=${CHAINID}`;
-const websocketUrl = 'http://localhost:7789';
-new ProfileRecommendation(apiUrl, websocketUrl);
+new ProfileRecommendation();
