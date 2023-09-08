@@ -15,24 +15,51 @@ class ProfileRecommendation {
     init() {
         $('#button-search').on('click', () => {
             const userInput = $('#user-input').val();
-            this.runChain(userInput);
+            this.initSocket(userInput)
         });
 
         $('#user-input').on('keypress', (e) => {
             if (e.which === 13) { // Enter key code
                 const userInput = $('#user-input').val();
-                this.runChain(userInput);
+                this.initSocket(userInput)
             }
         });
     }
 
-    runChain(userInput) {
-        this.streamingUpdate()
+    initSocket(userInput) {
+        // Disable the button
+        $('#button-search').prop('disabled', true);
+
+        // Clear the results & streamed accordion
+        $('#response-placeholder').empty();
+        $('#streaming-placeholder').empty();
 
         $.ajax({
-            url: this.apiUrl,
+            url: `${URL}/stream`,
+            method: 'GET',
+            headers: {
+                "Authorization": APIKEY
+            },
+            success: (data) => {
+                this.runChain(userInput, data.stream_id)
+                this.socket.on(data.stream_id, (data) => {
+                    this.updateAccordion(data);
+                })
+            },
+            error: (xhr, textStatus, errorThrown) => {
+                console.error("Failed to initialize session:", errorThrown);
+            },
+            complete: () => {
+                // Enable the button again
+                $('#button-search').prop('disabled', false);
+            }
+        });
+    }
+
+    runChain(userInput, streamID) {
+        $.ajax({
+            url: `${this.apiUrl}&stream_id=${streamID}`,
             method: 'POST',
-            // timeout: 0,
             headers: {
                 "Authorization": APIKEY,
                 "Content-Type": "application/json"
@@ -41,7 +68,6 @@ class ProfileRecommendation {
                 "request": { "query": userInput }
             }),
             beforeSend: () => {
-                // clear
                 $('#loading').show();
             },
             complete: (data) => {
@@ -51,12 +77,6 @@ class ProfileRecommendation {
         });
     }
 
-    streamingUpdate() {
-        this.socket.on('chain', (data) => {
-            this.updateAccordion(data);
-        })
-
-    }
 
     updateAccordion(data) {
         const placeholder = $('#streaming-placeholder');
@@ -224,7 +244,5 @@ class RenderPage {
 // Instantiate the class to make the API calls on page load
 $(document).ready(() => {
     new RenderPage();
+    new ProfileRecommendation();
 });
-
-
-new ProfileRecommendation();
