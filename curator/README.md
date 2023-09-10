@@ -1,5 +1,6 @@
 ## Freelancer Profile Curator
 
+```json
 {
   "chain": [
     {
@@ -79,3 +80,4 @@
     }
   ]
 }
+```
