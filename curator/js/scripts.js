@@ -48,10 +48,6 @@ class ProfileRecommendation {
             },
             error: (xhr, textStatus, errorThrown) => {
                 console.error("Failed to initialize session:", errorThrown);
-            },
-            complete: () => {
-                // Enable the button again
-                $('#button-search').prop('disabled', false);
             }
         });
     }
@@ -73,6 +69,7 @@ class ProfileRecommendation {
             complete: (data) => {
                 $('#loading').hide();
                 this.updateProfiles(data.responseJSON);
+                $('#button-search').prop('disabled', false);
             }
         });
     }
