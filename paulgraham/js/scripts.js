@@ -1,9 +1,9 @@
-var BASE = "https://api.nux.ai"
+var BASE = "http://localhost:7789"
 var APIKEY = "sk_rK8_FjH72zrRqQnFNC6H0du2U7BiE61RaQoqfTtn4HyUKWskCm6cLLfFPPscw-5e4G8"
-var INDEXID = "ix-18W2xQv_3ChMMzakioY8AENHimYy2OfQSTchs3w5b7lBph25kXyE_-nVaYvkrf8kScw"
+var INDEXID = "ix-c9o-5yide6t8gJLo3Ybt7mXnw78wmEjpX84A4yktfJex_79frPHBdBCQ_mUmTikLk4g"
 var URL = `${BASE}/v1`
 const WEBSOCKET = BASE;
-var CHAINID = "65032f807ab16ecb3d7b1209"
+var CHAINID = "65032fae7ab16ecb3d7b120a"
 
 
 class ProfileRecommendation {

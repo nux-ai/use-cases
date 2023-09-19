@@ -1,5 +1,26 @@
 ## Freelancer Profile Curator
 
+### Source
+```json
+[
+    {
+        "source_id": "freelancer_profiles",
+        "type": "file_url",
+        "path": "https://nux-sandbox.s3.us-east-2.amazonaws.com/learnexus/freelancer_proposals+-+Proposals+Text+-+sample.csv",
+        "metadata": {},
+        "config": {}
+    },
+    {
+        "source_id": "freelancer_proposals",
+        "type": "file_url",
+        "path": "https://nux-sandbox.s3.us-east-2.amazonaws.com/learnexus/freelancer_profiles+-+Sheet1.csv",
+        "metadata": {},
+        "config": {}
+    }
+]
+```
+
+### Chain
 ```json
 {
   "chain": [

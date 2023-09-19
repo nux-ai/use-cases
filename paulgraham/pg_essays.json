@@ -1,0 +1,1754 @@
+[
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/wisdom.html",
+        "metadata": {
+            "title": "Is it Worth Being Wise?"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/kids.html",
+        "metadata": {
+            "title": "Having Kids"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/selfindulgence.html",
+        "metadata": {
+            "title": "How to Lose Time and Money"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/greatwork.html",
+        "metadata": {
+            "title": "How to Do Great Work"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/getideas.html",
+        "metadata": {
+            "title": "How to Get New Ideas"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/read.html",
+        "metadata": {
+            "title": "The Need to Read"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/want.html",
+        "metadata": {
+            "title": "What You (Want to)* Want"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/alien.html",
+        "metadata": {
+            "title": "Alien Truth"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/users.html",
+        "metadata": {
+            "title": "What I've Learned from Users"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/heresy.html",
+        "metadata": {
+            "title": "Heresy"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/words.html",
+        "metadata": {
+            "title": "Putting Ideas into Words"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/goodtaste.html",
+        "metadata": {
+            "title": "Is There Such a Thing as Good Taste?"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/smart.html",
+        "metadata": {
+            "title": "Beyond Smart"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/weird.html",
+        "metadata": {
+            "title": "Weird Languages"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/hwh.html",
+        "metadata": {
+            "title": "How to Work Hard"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/own.html",
+        "metadata": {
+            "title": "A Project of One's Own"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/fn.html",
+        "metadata": {
+            "title": "Fierce Nerds"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/newideas.html",
+        "metadata": {
+            "title": "Crazy New Ideas"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/nft.html",
+        "metadata": {
+            "title": "An NFT That Saves Lives"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/real.html",
+        "metadata": {
+            "title": "The Real Reason to End the Death Penalty"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/richnow.html",
+        "metadata": {
+            "title": "How People Get Rich Now"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/simply.html",
+        "metadata": {
+            "title": "Write Simply"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/donate.html",
+        "metadata": {
+            "title": "Donate Unrestricted"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/worked.html",
+        "metadata": {
+            "title": "What I Worked On"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/earnest.html",
+        "metadata": {
+            "title": "Earnestness"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/ace.html",
+        "metadata": {
+            "title": "Billionaires Build"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/airbnbs.html",
+        "metadata": {
+            "title": "The Airbnbs"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/think.html",
+        "metadata": {
+            "title": "How to Think for Yourself"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/early.html",
+        "metadata": {
+            "title": "Early Work"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/wtax.html",
+        "metadata": {
+            "title": "Modeling a Wealth Tax"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/conformism.html",
+        "metadata": {
+            "title": "The Four Quadrants of Conformism"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/orth.html",
+        "metadata": {
+            "title": "Orthodox Privilege"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/cred.html",
+        "metadata": {
+            "title": "Coronavirus and Credibility"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/useful.html",
+        "metadata": {
+            "title": "How to Write Usefully"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/noob.html",
+        "metadata": {
+            "title": "Being a Noob"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/fh.html",
+        "metadata": {
+            "title": "Haters"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/mod.html",
+        "metadata": {
+            "title": "The Two Kinds of Moderate"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/fp.html",
+        "metadata": {
+            "title": "Fashionable Problems"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/kids.html",
+        "metadata": {
+            "title": "Having Kids"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/lesson.html",
+        "metadata": {
+            "title": "The Lesson to Unlearn"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/nov.html",
+        "metadata": {
+            "title": "Novelty and Heresy"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/genius.html",
+        "metadata": {
+            "title": "The Bus Ticket Theory of Genius"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/sun.html",
+        "metadata": {
+            "title": "General and Surprising"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/pow.html",
+        "metadata": {
+            "title": "Charisma / Power"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/disc.html",
+        "metadata": {
+            "title": "The Risk of Discovery"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/pgh.html",
+        "metadata": {
+            "title": "How to Make Pittsburgh a Startup Hub"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/vb.html",
+        "metadata": {
+            "title": "Life is Short"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/ineq.html",
+        "metadata": {
+            "title": "Economic Inequality"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/re.html",
+        "metadata": {
+            "title": "The Refragmentation"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/jessica.html",
+        "metadata": {
+            "title": "Jessica Livingston"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/bias.html",
+        "metadata": {
+            "title": "A Way to Detect Bias"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/talk.html",
+        "metadata": {
+            "title": "Write Like You Talk"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/aord.html",
+        "metadata": {
+            "title": "Default Alive or Default Dead?"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/safe.html",
+        "metadata": {
+            "title": "Why It's Safe for Founders to Be Nice"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/name.html",
+        "metadata": {
+            "title": "Change Your Name"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/altair.html",
+        "metadata": {
+            "title": "What Microsoft Is this the Altair Basic of?"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/ronco.html",
+        "metadata": {
+            "title": "The Ronco Principle"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/work.html",
+        "metadata": {
+            "title": "What Doesn't Seem Like Work?"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/corpdev.html",
+        "metadata": {
+            "title": "Don't Talk to Corp Dev"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/95.html",
+        "metadata": {
+            "title": "Let the Other 95% of Great Programmers In"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/ecw.html",
+        "metadata": {
+            "title": "How to Be an Expert in a Changing World"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/know.html",
+        "metadata": {
+            "title": "How You Know"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/pinch.html",
+        "metadata": {
+            "title": "The Fatal Pinch"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/mean.html",
+        "metadata": {
+            "title": "Mean People Fail"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/before.html",
+        "metadata": {
+            "title": "Before the Startup"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/fr.html",
+        "metadata": {
+            "title": "How to Raise Money"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/herd.html",
+        "metadata": {
+            "title": "Investor Herd Dynamics"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/convince.html",
+        "metadata": {
+            "title": "How to Convince Investors"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/ds.html",
+        "metadata": {
+            "title": "Do Things that Don't Scale"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/invtrend.html",
+        "metadata": {
+            "title": "Startup Investing Trends"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/startupideas.html",
+        "metadata": {
+            "title": "How to Get Startup Ideas"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/hw.html",
+        "metadata": {
+            "title": "The Hardware Renaissance"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/growth.html",
+        "metadata": {
+            "title": "Startup = Growth"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/swan.html",
+        "metadata": {
+            "title": "Black Swan Farming"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/todo.html",
+        "metadata": {
+            "title": "The Top of My Todo List"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/speak.html",
+        "metadata": {
+            "title": "Writing and Speaking"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/ycstart.html",
+        "metadata": {
+            "title": "How Y Combinator Started"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/property.html",
+        "metadata": {
+            "title": "Defining Property"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/ambitious.html",
+        "metadata": {
+            "title": "Frighteningly Ambitious Startup Ideas"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/word.html",
+        "metadata": {
+            "title": "A Word to the Resourceful"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/schlep.html",
+        "metadata": {
+            "title": "Schlep Blindness"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/vw.html",
+        "metadata": {
+            "title": "Snapshot: Viaweb, June 1998"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/hubs.html",
+        "metadata": {
+            "title": "Why Startup Hubs Work"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/patentpledge.html",
+        "metadata": {
+            "title": "The Patent Pledge"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/airbnb.html",
+        "metadata": {
+            "title": "Subject: Airbnb"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/control.html",
+        "metadata": {
+            "title": "Founder Control"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/tablets.html",
+        "metadata": {
+            "title": "Tablets"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/founders.html",
+        "metadata": {
+            "title": "What We Look for in Founders"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/superangels.html",
+        "metadata": {
+            "title": "The New Funding Landscape"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/seesv.html",
+        "metadata": {
+            "title": "Where to See Silicon Valley"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/hiresfund.html",
+        "metadata": {
+            "title": "High Resolution Fundraising "
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/yahoo.html",
+        "metadata": {
+            "title": "What Happened to Yahoo "
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/future.html",
+        "metadata": {
+            "title": "The Future of Startup Funding "
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/addiction.html",
+        "metadata": {
+            "title": "The Acceleration of Addictiveness"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/top.html",
+        "metadata": {
+            "title": "The Top Idea in Your Mind "
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/selfindulgence.html",
+        "metadata": {
+            "title": "How to Lose Time and Money "
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/organic.html",
+        "metadata": {
+            "title": "Organic Startup Ideas"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/apple.html",
+        "metadata": {
+            "title": "Apple's Mistake"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/really.html",
+        "metadata": {
+            "title": "What Startups Are Really Like"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/discover.html",
+        "metadata": {
+            "title": "Persuade xor Discover "
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/publishing.html",
+        "metadata": {
+            "title": "Post-Medium Publishing"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/nthings.html",
+        "metadata": {
+            "title": "The List of N Things"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/determination.html",
+        "metadata": {
+            "title": "The Anatomy of Determination "
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/kate.html",
+        "metadata": {
+            "title": "What Kate Saw in Silicon Valley "
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/segway.html",
+        "metadata": {
+            "title": "The Trouble with the Segway"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/ramenprofitable.html",
+        "metadata": {
+            "title": "Ramen Profitable"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/makersschedule.html",
+        "metadata": {
+            "title": "Maker's Schedule, Manager's Schedule "
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/revolution.html",
+        "metadata": {
+            "title": "A Local Revolution?"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/twitter.html",
+        "metadata": {
+            "title": "Why Twitter is a Big Deal"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/foundervisa.html",
+        "metadata": {
+            "title": "The Founder Visa"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/5founders.html",
+        "metadata": {
+            "title": "Five Founders"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/relres.html",
+        "metadata": {
+            "title": "Relentlessly Resourceful"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/angelinvesting.html",
+        "metadata": {
+            "title": "How to Be an Angel Investor"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/convergence.html",
+        "metadata": {
+            "title": "Why TV Lost"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/maybe.html",
+        "metadata": {
+            "title": "Can You Buy a Silicon Valley? Maybe."
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/hackernews.html",
+        "metadata": {
+            "title": "What I've Learned from Hacker News"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/13sentences.html",
+        "metadata": {
+            "title": "Startups in 13 Sentences"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/identity.html",
+        "metadata": {
+            "title": "Keep Your Identity Small "
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/credentials.html",
+        "metadata": {
+            "title": "After Credentials"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/divergence.html",
+        "metadata": {
+            "title": "Could VC be a Casualty of the Recession?"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/highres.html",
+        "metadata": {
+            "title": "The High-Res Society"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/artistsship.html",
+        "metadata": {
+            "title": "The Other Half of \"Artists Ship\" "
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/badeconomy.html",
+        "metadata": {
+            "title": "Why to Start a Startup in a Bad Economy"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/fundraising.html",
+        "metadata": {
+            "title": "A Fundraising Survival Guide"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/prcmc.html",
+        "metadata": {
+            "title": "The Pooled-Risk Company Management Company"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/cities.html",
+        "metadata": {
+            "title": "Cities and Ambition"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/distraction.html",
+        "metadata": {
+            "title": "Disconnecting Distraction"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/lies.html",
+        "metadata": {
+            "title": "Lies We Tell Kids"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/good.html",
+        "metadata": {
+            "title": "Be Good"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/googles.html",
+        "metadata": {
+            "title": "Why There Aren't More Googles"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/heroes.html",
+        "metadata": {
+            "title": "Some Heroes"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/disagree.html",
+        "metadata": {
+            "title": "How to Disagree"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/boss.html",
+        "metadata": {
+            "title": "You Weren't Meant to Have a Boss"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/ycombinator.html",
+        "metadata": {
+            "title": "A New Venture Animal"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/trolls.html",
+        "metadata": {
+            "title": "Trolls"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/newthings.html",
+        "metadata": {
+            "title": "Six Principles for Making New Things"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/startuphubs.html",
+        "metadata": {
+            "title": "Why to Move to a Startup Hub"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/webstartups.html",
+        "metadata": {
+            "title": "The Future of Web Startups"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/philosophy.html",
+        "metadata": {
+            "title": "How to Do Philosophy"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/colleges.html",
+        "metadata": {
+            "title": "News from the Front"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/die.html",
+        "metadata": {
+            "title": "How Not to Die"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/head.html",
+        "metadata": {
+            "title": "Holding a Program in One's Head"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/stuff.html",
+        "metadata": {
+            "title": "Stuff"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/equity.html",
+        "metadata": {
+            "title": "The Equity Equation"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/unions.html",
+        "metadata": {
+            "title": "An Alternative Theory of Unions"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/guidetoinvestors.html",
+        "metadata": {
+            "title": "The Hacker's Guide to Investors"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/judgement.html",
+        "metadata": {
+            "title": "Two Kinds of Judgement"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/microsoft.html",
+        "metadata": {
+            "title": "Microsoft is Dead"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/notnot.html",
+        "metadata": {
+            "title": "Why to Not Not Start a Startup"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/wisdom.html",
+        "metadata": {
+            "title": "Is It Worth Being Wise?"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/foundersatwork.html",
+        "metadata": {
+            "title": "Learning from Founders"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/goodart.html",
+        "metadata": {
+            "title": "How Art Can Be Good"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/startupmistakes.html",
+        "metadata": {
+            "title": "The 18 Mistakes That Kill Startups"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/mit.html",
+        "metadata": {
+            "title": "A Student's Guide to Startups"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/investors.html",
+        "metadata": {
+            "title": "How to Present to Investors"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/copy.html",
+        "metadata": {
+            "title": "Copy What You Like"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/island.html",
+        "metadata": {
+            "title": "The Island Test"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/marginal.html",
+        "metadata": {
+            "title": "The Power of the Marginal"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/america.html",
+        "metadata": {
+            "title": "Why Startups Condense in America"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/siliconvalley.html",
+        "metadata": {
+            "title": "How to Be Silicon Valley"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/startuplessons.html",
+        "metadata": {
+            "title": "The Hardest Lessons for Startups to Learn"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/randomness.html",
+        "metadata": {
+            "title": "See Randomness"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/softwarepatents.html",
+        "metadata": {
+            "title": "Are Software Patents Evil?"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/6631327.html",
+        "metadata": {
+            "title": "6,631,372"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/whyyc.html",
+        "metadata": {
+            "title": "Why YC"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/love.html",
+        "metadata": {
+            "title": "How to Do What You Love"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/procrastination.html",
+        "metadata": {
+            "title": "Good and Bad Procrastination"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/web20.html",
+        "metadata": {
+            "title": "Web 2.0"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/startupfunding.html",
+        "metadata": {
+            "title": "How to Fund a Startup"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/vcsqueeze.html",
+        "metadata": {
+            "title": "The Venture Capital Squeeze"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/ideas.html",
+        "metadata": {
+            "title": "Ideas for Startups"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/sfp.html",
+        "metadata": {
+            "title": "What I Did this Summer"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/inequality.html",
+        "metadata": {
+            "title": "Inequality and Risk"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/ladder.html",
+        "metadata": {
+            "title": "After the Ladder"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/opensource.html",
+        "metadata": {
+            "title": "What Business Can Learn from Open Source"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/hiring.html",
+        "metadata": {
+            "title": "Hiring is Obsolete"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/submarine.html",
+        "metadata": {
+            "title": "The Submarine"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/bronze.html",
+        "metadata": {
+            "title": "Why Smart People Have Bad Ideas"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/mac.html",
+        "metadata": {
+            "title": "Return of the Mac"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/writing44.html",
+        "metadata": {
+            "title": "Writing, Briefly"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/college.html",
+        "metadata": {
+            "title": "Undergraduation"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/venturecapital.html",
+        "metadata": {
+            "title": "A Unified Theory of VC Suckage"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/start.html",
+        "metadata": {
+            "title": "How to Start a Startup"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/hs.html",
+        "metadata": {
+            "title": "What You'll Wish You'd Known"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/usa.html",
+        "metadata": {
+            "title": "Made in USA"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/charisma.html",
+        "metadata": {
+            "title": "It's Charisma, Stupid"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/polls.html",
+        "metadata": {
+            "title": "Bradley's Ghost"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/laundry.html",
+        "metadata": {
+            "title": "A Version 1.0"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/bubble.html",
+        "metadata": {
+            "title": "What the Bubble Got Right"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/essay.html",
+        "metadata": {
+            "title": "The Age of the Essay"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/pypar.html",
+        "metadata": {
+            "title": "The Python Paradox"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/gh.html",
+        "metadata": {
+            "title": "Great Hackers"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/gap.html",
+        "metadata": {
+            "title": "Mind the Gap"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/wealth.html",
+        "metadata": {
+            "title": "How to Make Wealth"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/gba.html",
+        "metadata": {
+            "title": "The Word \"Hacker\""
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/say.html",
+        "metadata": {
+            "title": "What You Can't Say"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/ffb.html",
+        "metadata": {
+            "title": "Filters that Fight Back"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/hp.html",
+        "metadata": {
+            "title": "Hackers and Painters"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/iflisp.html",
+        "metadata": {
+            "title": "If Lisp is So Great"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/hundred.html",
+        "metadata": {
+            "title": "The Hundred-Year Language"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/nerds.html",
+        "metadata": {
+            "title": "Why Nerds are Unpopular"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/better.html",
+        "metadata": {
+            "title": "Better Bayesian Filtering"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/desres.html",
+        "metadata": {
+            "title": "Design and Research"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/spam.html",
+        "metadata": {
+            "title": "A Plan for Spam"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/icad.html",
+        "metadata": {
+            "title": "Revenge of the Nerds"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/power.html",
+        "metadata": {
+            "title": "Succinctness is Power"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/fix.html",
+        "metadata": {
+            "title": "What Languages Fix"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/taste.html",
+        "metadata": {
+            "title": "Taste for Makers"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/noop.html",
+        "metadata": {
+            "title": "Why Arc Isn't Especially Object-Oriented"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/diff.html",
+        "metadata": {
+            "title": "What Made Lisp Different"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/road.html",
+        "metadata": {
+            "title": "The Other Road Ahead"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/rootsoflisp.html",
+        "metadata": {
+            "title": "The Roots of Lisp"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/langdes.html",
+        "metadata": {
+            "title": "Five Questions about Language Design"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/popular.html",
+        "metadata": {
+            "title": "Being Popular"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/javacover.html",
+        "metadata": {
+            "title": "Java's Cover"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/avg.html",
+        "metadata": {
+            "title": "Beating the Averages"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/lwba.html",
+        "metadata": {
+            "title": "Lisp for Web-Based Applications"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/progbot.html",
+        "metadata": {
+            "title": "Programming Bottom-Up"
+        }
+    },
+    {
+        "source_id": "paul_graham_essays",
+        "type": "website",
+        "path": "http://paulgraham.com/prop62.html",
+        "metadata": {
+            "title": "This Year We Can End the Death Penalty in California"
+        }
+    }
+]
