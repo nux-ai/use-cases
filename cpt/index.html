@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title>CPT Code Recommender - NUX</title>
+    <!-- Favicon-->
+    <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+        integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link href="css/styles.css" rel="stylesheet" />
+</head>
+
+<style>
+    .nav-item {
+        display: flex;
+        align-items: center;
+    }
+
+    .nav-link {
+        color: white;
+    }
+
+    .center-vertically {
+        /* display: flex; */
+
+    }
+
+    .code {
+        color: red;
+        margin-left: 0.4rem;
+        margin-right: 0.4rem;
+    }
+
+    .accordion-button>span {
+        display: block;
+    }
+</style>
+
+<body>
+    <!-- Responsive navbar-->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="https://nux.ai">NUX.ai</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                    <li class="nav-item"><a target="_blank" class="nav-link"
+                            href="https://github.com/nux-ai/use-cases/tree/master/curator"><i
+                                class="fa-brands fa-github"></i> Code Used</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#"><button type="button" class="btn btn-primary"><i
+                                    class="fa-solid fa-rocket"></i> Deploy Chain</button>
+                        </a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- Page header with logo and tagline-->
+    <header class="py-5 bg-light border-bottom mb-4">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-md-10 mx-auto">
+                    <div class="text-center my-4">
+                        <h1 class="fw-bolder">CPT Code Recommender </h1>
+                        <p class="">
+                            Enter any cpt code or description and we'll return a similar CPT code that has a high
+                            reimbursement amount.
+                            <!-- <a href="#">
+                                How it Works <i class="fa-solid fa-arrow-right"></i>
+                            </a> -->
+                        </p>
+                    </div>
+                    <div class="w-75 mx-auto mt-4">
+                        <div class="input-group">
+                            <input class="form-control" id="user-input" type="text"
+                                placeholder="Describe a procedure" />
+                            <button class="btn btn-primary" id="button-search" type="button"><i
+                                    class="fas fa-globe"></i></button>
+                        </div>
+                        <div class="card mt-4">
+                            <div class="card-header">Chain Execution Progress... </div>
+                            <div class="card-body">
+                                <div class="accordion" id="streaming-placeholder"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+        </div>
+    </header>
+    <!-- Page content-->
+    <div class="container">
+        <div class="row">
+            <!-- Blog entries-->
+            <div class="col-lg-8">
+                <h2 class="mb-4 fw-bolder">Results</h2>
+
+                <div class="container">
+                    <div class="row">
+                        <div id="loading" style="display: none;">
+                            <img src="assets/loading-icon.gif" />
+                        </div>
+                        <div id="response-placeholder">
+                            <!-- Will be filled by JavaScript -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Side widgets-->
+            <div class="col-lg-4">
+                <!-- Side widget-->
+                <div class="card mb-4">
+                    <div class="card-header">Chains</div>
+                    <div class="card-body">
+                        <div class="accordion" id="chains-placeholder"></div>
+
+                    </div>
+                </div>
+                <div class="card mb-4">
+                    <div class="card-header">Sources</div>
+                    <div class="card-body">
+                        <div class="accordion" id="source-placeholder"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Footer-->
+    <footer class="py-5 bg-dark">
+        <div class="container">
+            <p class="mb-2 text-center text-white">NUX is not responsible for any actions taken based on the information
+                provided and disclaims all liability for any damages or losses incurred. </p>
+
+            <p class="m-0 text-center text-white"><a class="text-white" href="https://nux.ai">NUX.ai</a></p>
+        </div>
+    </footer>
+    <!-- Bootstrap core JS-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- jquery -->
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"
+        integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+    <!-- socket -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+    <!-- Core theme JS-->
+    <script src="js/scripts.js"></script>
+</body>
+
+</html>
