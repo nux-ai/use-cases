@@ -109,6 +109,7 @@ class ProfileRecommendation {
 
 
     updateProfiles(data) {
+        console.log(data)
         const placeholder = $('#response-placeholder');
 
         const finalResult = data[data.length - 1].response.profiles;

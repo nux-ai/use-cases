@@ -17,13 +17,16 @@
 ### Create Chain
 ```json
 {
+  "_id": {
+    "$oid": "65032fae7ab16ecb3d7b120a"
+  },
   "chain": [
     {
       "stage_id": "evaluate_landing_page",
       "type": "text_to_text",
       "source_id": null,
       "config": {
-        "user_prompt": "Evaluate the effectiveness of my startup's landing page based on the URL: {{request.prompt}}.",
+        "user_prompt": "Evaluate the effectiveness of my startup's landing page based on it's content: {{request.prompt}}.",
         "system_prompt": "Return as an array of objects with keys containing: category_name (type: str), score (type: int), critique_points (type: list), and recommendations (type: str). Do not include any pretext.",
         "schema": {
           "name": "landing_page_evaluation",
@@ -68,7 +71,7 @@
       "type": "text_to_text",
       "source_id": null,
       "config": {
-        "user_prompt": "Based on these critique points {{evaluate_landing_page}}, summarize the most relevant Paul Graham essay from this {{reference_essays}}, provide specific critique points, and a link to the essay.",
+        "user_prompt": "Based on these critique points {{evaluate_landing_page.evaluation.critique_points}}, summarize the most relevant Paul Graham essay from this {{reference_essays.contents}} {{reference_essays.metadata}}, provide specific critique points, and a link to the essay.",
         "system_prompt": "Return an object with keys containing: essay_title (type: str), essay_summary (type: str), critique_points (type: list), and essay_link (type: str). Do not include any pretext.",
         "schema": {
           "name": "summarize_and_critique_essay",
@@ -105,7 +108,8 @@
         }
       }
     }
-  ]
+  ],
+  "index_id": "ix-c9o-5yide6t8gJLo3Ybt7mXnw78wmEjpX84A4yktfJex_79frPHBdBCQ_mUmTikLk4g"
 }
 ```
 
